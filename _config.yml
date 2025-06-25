@@ -8,7 +8,7 @@ lang: en
 timezone: # e.g. America/Sao_Paulo
 
 # SEO settings
-title: "Site Title" # Main title of your website
+title: "Blog vídeo 2" # Main title of your website
 tagline: "Your Tagline Here" # Subtitle displayed under the title
 description: >-
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
