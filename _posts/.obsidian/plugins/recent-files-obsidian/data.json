@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-05-26",
-      "path": "CALENDAR/2025-05-26.md"
+      "basename": "2025-06-25-post-exemplo",
+      "path": "2025-06-25-post-exemplo.md"
     },
     {
       "basename": "Snippets-Typografia",
       "path": "SYSTEM/Snippets-Typografia.md"
+    },
+    {
+      "basename": "2025-08-28-text-and-typography",
+      "path": "2025-08-28-text-and-typography.md"
+    },
+    {
+      "basename": "2025-05-26",
+      "path": "CALENDAR/2025-05-26.md"
     },
     {
       "basename": "SYSTEM-TEMPLATE",
@@ -23,10 +31,6 @@
     {
       "basename": "2019-08-09-getting-started",
       "path": "2019-08-09-getting-started.md"
-    },
-    {
-      "basename": "2025-08-28-text-and-typography",
-      "path": "2025-08-28-text-and-typography.md"
     },
     {
       "basename": "2019-08-11-customize-the-favicon",
